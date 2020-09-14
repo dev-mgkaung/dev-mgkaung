@@ -5,6 +5,8 @@
 
 ![Mg Kaung's github stats](https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-mgkaung&repo=github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mgkaung)](https://github.com/anuraghazra/github-readme-stats)
 
 

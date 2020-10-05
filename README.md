@@ -1,4 +1,4 @@
-[![Believe Developer.](https://miro.medium.com/proxy/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://play.google.com/store/apps/developer?id=Believe+Developer)
+[![Believe Developer.](https://zepel.io/blog/content/images/size/w2000/2020/05/git-workflow.png)](https://play.google.com/store/apps/developer?id=Believe+Developer)
 
 # I’m  Android developer
 ## I’m 24 years old and work as a junior Android developer at the MIT (Myanmar). Now my android experience 2 years and skill intermediate level.

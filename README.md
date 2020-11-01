@@ -25,9 +25,9 @@
 </a>
 <a href="https://github.com/dev-mgkaung/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dev-mgkaung&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mgkaung&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/dev-mgkaung/dev-mgkaung.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dev-mgkaung&repo=dev-mgkaung.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mgkaung&repo=dev-mgkaung.github.io&theme=radical" />
 </a>

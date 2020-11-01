@@ -24,3 +24,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical&line_height=27" alt="Mg Kaung's github stats"/>
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

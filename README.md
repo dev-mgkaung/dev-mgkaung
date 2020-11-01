@@ -25,4 +25,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical&line_height=27" alt="Mg Kaung's github stats"/>
 </a>
 
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+

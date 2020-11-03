@@ -4,9 +4,14 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  ![](https://komarev.com/ghpvc/?username=your-github-username)
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.
+### My Programming skills
+1. Kotlin
+2. Java
+3. Flutter
+4. Spring
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning more about Spring Boot.
 
 
 **Languages and Tools:**  

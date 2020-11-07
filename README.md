@@ -22,6 +22,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
+<code><img height="20" src="https://assets.toptal.io/uploads/blog/category/logo/59/spring.png"></code>
+<code><img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_480/nodejslogo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3aOGYknSR_NQQRLZXKaezqpYRu7a4b8nUcg&usqp=CAU"></code>   
 

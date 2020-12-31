@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
 - 🌱 I’m currently learning more about Node.js .
-
+- Ask me learning about java, kotlin , flutter android development
 
 **Languages and Tools:**  
 

@@ -1,0 +1,20 @@
+{
+  "results" : [
+    {
+      "id" : "mm_1",
+      "name" : "Maharbawdi",
+      "image_url" : "https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/340?cb=20191211065314",
+      "data_url" : "http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8",
+      "type" : "tv",
+      "country" : "my"
+    },
+    {
+      "id" : "mm_2",
+      "name" : "Channel - 7",
+      "image_url" : "https://i.pinimg.com/236x/80/31/c4/8031c49593df4ac68dcf1e4fb13c2f41.jpg",
+      "data_url" : "http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8",
+      "type" : "tv",
+      "country" : "my"
+    }
+  ]
+}

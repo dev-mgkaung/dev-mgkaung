@@ -52,7 +52,7 @@
       "id" : "mm_7",
       "name" : "Mahar",
       "image_url" : "http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png",
-      "data_url" : "https://maharlive.b-cdn.net/stream.m3u8",
+      "data_url" : "https://live.mahar.tv/channel/mahar-web.smil/chunklist_w89274488_b800000.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -92,7 +92,7 @@
       "id" : "mm_12",
       "name" : "5 Plus",
       "image_url" : "http://www.5pluschannel.com/sites/default/files/5plus-logo.png",
-      "data_url" : "https://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8",
+      "data_url" : "https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8",
       "type" : "tv",
       "country" : "my"
     },

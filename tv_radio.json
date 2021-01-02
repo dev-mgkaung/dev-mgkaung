@@ -3,8 +3,8 @@
     {
       "id" : "mm_1",
       "name" : "Maharbawdi",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-a44.jpg",
-      "data_url" : "http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8",
+      "image_url" : "https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg",
+      "data_url" : "https://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -19,8 +19,8 @@
     {
       "id" : "mm_3",
       "name" : "MRTV - 4",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-a44.jpg",
-      "data_url" : "http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8",
+      "image_url" : "http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png",
+      "data_url" : "https://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -35,24 +35,24 @@
     {
       "id" : "mm_5",
       "name" : "Channel K ",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-120x120-a44.jpg",
-      "data_url" : "http://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8",
+      "image_url" : "http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg",
+      "data_url" : "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_6",
       "name" : "DVB",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-a44.jpg",
-      "data_url" : "https://edge-stream-07.otv.co.th/livestream/DVB.stream/chunklist_w1819196524.m3u8",
+      "image_url" : "http://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png",
+      "data_url" : "https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_7",
       "name" : "Mahar",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-120x120-a44.jpg",
-      "data_url" : "http://maharlive.b-cdn.net:80/stream.m3u8",
+      "image_url" : "http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png",
+      "data_url" : "https://maharlive.b-cdn.net/stream.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -67,32 +67,32 @@
     {
       "id" : "mm_9",
       "name" : "Hluttaw",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/hluttaw-80x80-e0a.jpg",
-      "data_url" : "http://edge-stream-07.otv.co.th.:80/livestream/Hluttaw.stream/playlist.m3u8",
+      "image_url" : "https://image.winudf.com/v2/image/Y29tLndIbHV0dGF3TGl2ZVN0cmVhbWluZ19pY29uXzBfYTM4YjYzZTQ/icon.png?w=170&fakeurl=1",
+      "data_url" : "https://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_10",
-      "name" : "NRC ",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/nrc-80x80-e0a.jpg",
-      "data_url" : "rtmp://203.81.81.229/livepkgr/NRCL",
+      "name" : "MRTV NRC ",
+      "image_url" : "https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png",
+      "data_url" : "https://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_11",
       "name" : "MRTV Entertainment",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-80x80-e0a.jpg",
-      "data_url" : "http://edge-stream-07.otv.co.th.:80/livestream/MRTV-Entertainment.stream/chunklist_w1695360477.m3u8",
+      "image_url" : "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-10-12-54_1.jpeg",
+      "data_url" : "https://edge-stream-07.otv.co.th./livestream/MITV.stream/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_12",
       "name" : "5 Plus",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-80x80-e0a.jpg",
-      "data_url" : "https://stream.myanmartvchannels.com:999/5pluschannelsd/5pluschannelsd/playlist.m3u8",
+      "image_url" : "http://www.5pluschannel.com/sites/default/files/5plus-logo.png",
+      "data_url" : "https://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -107,7 +107,7 @@
     {
       "id" : "mm_14",
       "name" : "MVMTV ",
-      "image_url" : "",
+      "image_url" : "https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg",
       "data_url" : "https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8",
       "type" : "tv",
       "country" : "my"
@@ -115,7 +115,7 @@
     {
       "id" : "mm_15",
       "name" : "MWD Variety",
-      "image_url" : "",
+      "image_url" : "https://i.pinimg.com/236x/63/0b/81/630b814e80a6fdad1f020e1606590c27.jpg",
       "data_url" : "http://203.81.84.130/hls/mwd_variety/index.m3u8",
       "type" : "tv",
       "country" : "my"
@@ -202,9 +202,9 @@
     },
     {
       "id" : "mm_23",
-      "name" : "MU TV",
-      "image_url" : "",
-      "data_url" : "https://cdn-laos.workpoint.news/uk-mutv_480/index.m3u8",
+      "name" : "Mizzima TV",
+      "image_url" : "http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png",
+      "data_url" : "http://220.158.149.28:8180/TV00000000000000000170@HHZT",
       "type" : "tv",
       "country" : "my"
     },

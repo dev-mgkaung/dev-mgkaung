@@ -173,19 +173,19 @@
     },
     {
       "id" : "mm_21",
-      "name" : "Bein Sport 1",
-      "image_url" : "",
-      "data_url" : "https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8",
+      "name" : "Mizzima",
+      "image_url" : "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1412501099/pa5y7i8lams4w5yywz3z.png",
+      "data_url" : "https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_standard/index.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_22",
-      "name" : "Bein Sport 2",
+      "name" : "Thai 2 TV",
       "image_url" : "",
       "data_url" : "https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8",
       "type" : "tv",
-      "country" : "my"
+      "country" : "th"
     },
 
     {

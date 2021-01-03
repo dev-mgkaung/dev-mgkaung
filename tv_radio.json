@@ -4,7 +4,7 @@
       "id" : "mm_1",
       "name" : "Maharbawdi",
       "image_url" : "https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg",
-      "data_url" : "https://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8",
+      "data_url" : "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -12,7 +12,7 @@
       "id" : "mm_2",
       "name" : "Channel - 7",
       "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-a44.jpg",
-      "data_url" : "http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8",
+      "data_url" : "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
     },
@@ -20,7 +20,7 @@
       "id" : "mm_3",
       "name" : "MRTV - 4",
       "image_url" : "http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png",
-      "data_url" : "https://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8",
+      "data_url" : "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
     },

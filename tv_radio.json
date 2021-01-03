@@ -167,7 +167,7 @@
       "id" : "mm_20",
       "name" : "YTV  ",
       "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-80x80-e0a.jpg",
-      "data_url" : "http://206.189.149.137:8081/ytvchannelhd/ytvchannelhd/playlist.m3u8",
+      "data_url" : "https://stream.myanmartvchannels.com:999/website-ytvchannelhd/website-ytvchannelhd/chunks.m3u8",
       "type" : "tv",
       "country" : "my"
     },

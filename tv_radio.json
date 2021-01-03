@@ -60,9 +60,9 @@
     },
     {
       "id" : "mm_8",
-      "name" : "MNTV ",
-      "image_url" : "https://yt3.ggpht.com/ytc/AAUvwnh-jPePPj-xU6QlLDAc_Jp2K3cMN5VmDTSxi2uC=s900-c-k-c0x00ffffff-no-rj",
-      "data_url" : "http://edge-stream-07.otv.co.th.:80/livestream/MNTV.stream/chunklist_w988717742.m3u8",
+      "name" : "MRTV ",
+      "image_url" : "https://www.abu.org.my/wp-content/uploads/2019/04/mrtv.png",
+      "data_url" : "http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8",
       "type" : "tv",
       "country" : "my"
     },

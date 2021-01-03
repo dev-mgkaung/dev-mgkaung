@@ -3,7 +3,7 @@
     {
       "id" : "mm_1",
       "name" : "Maharbawdi",
-      "image_url" : "https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg",
+      "image_url" : "https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/340?cb=20191211065314",
       "data_url" : "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "type" : "tv",
       "country" : "my"
@@ -26,12 +26,13 @@
     },
     {
       "id" : "mm_4",
-      "name" : "MWD ",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg",
-      "data_url" : "http://203.81.84.130/hls/mwd/index.m3u8",
+      "name" : "Mahar",
+      "image_url" : "http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png",
+      "data_url" : "https://live.mahar.tv/channel/mahar-web.smil/chunklist_w89274488_b800000.m3u8",
       "type" : "tv",
       "country" : "my"
     },
+   
     {
       "id" : "mm_5",
       "name" : "Channel K ",
@@ -40,19 +41,20 @@
       "type" : "tv",
       "country" : "my"
     },
+ 
     {
       "id" : "mm_6",
-      "name" : "DVB",
-      "image_url" : "http://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png",
-      "data_url" : "https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8",
+      "name" : "MWD ",
+      "image_url" : "https://pbs.twimg.com/profile_images/2518099812/ogpxiyy659mwls0bdqu7.jpeg",
+      "data_url" : "http://203.81.84.130/hls/mwd/index.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_7",
-      "name" : "Mahar",
-      "image_url" : "http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png",
-      "data_url" : "https://live.mahar.tv/channel/mahar-web.smil/chunklist_w89274488_b800000.m3u8",
+      "name" : "DVB",
+      "image_url" : "http://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png",
+      "data_url" : "https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8",
       "type" : "tv",
       "country" : "my"
     },

@@ -53,15 +53,15 @@
     {
       "id" : "mm_7",
       "name" : "DVB",
-      "image_url" : "http://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png",
-      "data_url" : "https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8",
+      "image_url" : "https://www.burmalink.org/wp-content/uploads/2014/01/DVB_logo_sq.jpg",
+      "data_url" : "https://edge-stream-07.otv.co.th/livestream/DVB.stream/chunklist_w1819196524.m3u8",
       "type" : "tv",
       "country" : "my"
     },
     {
       "id" : "mm_8",
       "name" : "MNTV ",
-      "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-80x80-e0a.jpg",
+      "image_url" : "https://yt3.ggpht.com/ytc/AAUvwnh-jPePPj-xU6QlLDAc_Jp2K3cMN5VmDTSxi2uC=s900-c-k-c0x00ffffff-no-rj",
       "data_url" : "http://edge-stream-07.otv.co.th.:80/livestream/MNTV.stream/chunklist_w988717742.m3u8",
       "type" : "tv",
       "country" : "my"
@@ -69,8 +69,8 @@
     {
       "id" : "mm_9",
       "name" : "Hluttaw",
-      "image_url" : "https://image.winudf.com/v2/image/Y29tLndIbHV0dGF3TGl2ZVN0cmVhbWluZ19pY29uXzBfYTM4YjYzZTQ/icon.png?w=170&fakeurl=1",
-      "data_url" : "https://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8",
+      "image_url" : "https://lh3.googleusercontent.com/proxy/hT_7P5NytPf58iNCFJ8JgH2NZmA8lNuOzMEaYPDqYPXVNFMp2tPSoFJnYTd2OL5gM-GgWZrQCPSON4KiiD4g2wTnrj5ICEzdV5SPitPwVb3PBxWTdUUXiagcoL3j_RWs2Q",
+      "data_url" : "http://edge-stream-07.otv.co.th.:80/livestream/Hluttaw.stream/playlist.m3u8",
       "type" : "tv",
       "country" : "my"
     },

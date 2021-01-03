@@ -82,7 +82,7 @@
       "type" : "tv",
       "country" : "my"
     },
-   
+
     {
       "id" : "mm_11",
       "name" : "MRTV Entertainment",
@@ -191,9 +191,145 @@
 
     {
       "id" : "mm_23",
-      "name" : "Thai TV",
-      "image_url" : "",
-      "data_url" : "https://cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8",
+      "name" : "White Channel",
+      "image_url" : "https://i.imgur.com/lK52fpm.png",
+      "data_url" : "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_24",
+      "name" : "TPTV",
+      "image_url" : "http://live.parliament.go.th/images/coronationceremony/logo.png",
+      "data_url" : "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_25",
+      "name" : "Thairath TV 32",
+      "image_url" : "https://i.imgur.com/0AiJcrC.png",
+      "data_url" : "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_26",
+      "name" : "Thairath TV 32",
+      "image_url" : "https://i.imgur.com/0AiJcrC.png",
+      "data_url" : "https://live.thairath.co.th/trtv2/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_27",
+      "name" : "Thai PBS 3",
+      "image_url" : "https://i.imgur.com/b4l0w2m.png",
+      "data_url" : "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_28",
+      "name" : "Thai PBS 3",
+      "image_url" : "https://i.imgur.com/b4l0w2m.png",
+      "data_url" : "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_29",
+      "name" : "Thai PBS 3",
+      "image_url" : "https://i.imgur.com/b4l0w2m.png",
+      "data_url" : "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_30",
+      "name" : "TGN",
+      "image_url" : "https://i.imgur.com/aNExu5R.jpg",
+      "data_url" : "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_31",
+      "name" : "Suwannabhumi TV",
+      "image_url" : "https://i.imgur.com/wVednTk.png",
+      "data_url" : "http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_32",
+      "name" : "Smart SME Channel",
+      "image_url" : "https://i.imgur.com/dauuWLp.png",
+      "data_url" : "https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_33",
+      "name" : "TGN",
+      "image_url" : "https://i.imgur.com/aNExu5R.jpg",
+      "data_url" : "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_34",
+      "name" : "News 1",
+      "image_url" : "https://news1live.com/images/social-share-logo.png",
+      "data_url" : "http://news1.live14.com/stream/news1.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_35",
+      "name" : "NBT Central",
+      "image_url" : "https://i.imgur.com/Glr0CJE.png",
+      "data_url" : "http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_36",
+      "name" : "https://i.imgur.com/QZ2WcZl.jpg",
+      "image_url" : "https://i.imgur.com/aNExu5R.jpg",
+      "data_url" : "http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_37",
+      "name" : "MCOT 30",
+      "image_url" : "https://i.imgur.com/bYMtfRn.png",
+      "data_url" : "http://183.182.100.184/live/mcothd/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_38",
+      "name" : "M Channel",
+      "image_url" : "https://i.imgur.com/KEbokdx.jpg",
+      "data_url" : "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_39",
+      "name" : "CTB",
+      "image_url" : "http://ctbtv.co.th/indexctb/ctbtv1.png",
+      "data_url" : "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",
+      "type" : "tv",
+      "country" : "th"
+    },
+    {
+      "id" : "mm_40",
+      "name" : "Channel 8 Thailand",
+      "image_url" : "https://i.imgur.com/hzdMjA1.jpg",
+      "data_url" : "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
       "type" : "tv",
       "country" : "th"
     }

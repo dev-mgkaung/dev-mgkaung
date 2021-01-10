@@ -6,13 +6,12 @@
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.
 ### My Programming skills
 1. Kotlin
-2. Java
-3. Flutter
+2. Flutter
+3. Java
 4. Spring
-5. Node.js
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
-- 🌱 I’m currently learning more about Node.js .
+- 🌱 I’m currently learning more about Flutter .
 - Ask me learning about java, kotlin , flutter android development
 
 **Languages and Tools:**  
@@ -31,6 +30,12 @@
 <a href="https://github.com/dev-mgkaung">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mgkaung&theme=light&hide_langs_below=1" />
 </a>
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical&line_height=27" alt="Mg Kaung's github stats" /></th>
+    <th><img align='right' src="https://github.com/tusharojha/tusharojha/blob/master/work.gif?raw=true" height="200" ></th>
+  </tr>
+</table>
 <a href="https://github.com/dev-mgkaung">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical&line_height=27" alt="Mg Kaung's github stats"/>
 </a>

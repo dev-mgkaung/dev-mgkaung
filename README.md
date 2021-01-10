@@ -29,7 +29,7 @@
 
 
 <a href="https://github.com/dev-mgkaung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mgkaung&theme=light&hide_langs_below=1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=E0E0E0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mgkaung&theme=light&hide_langs_below=1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=FFFFFF" />
 </a>
 <table style="width:100%">
   <tr>

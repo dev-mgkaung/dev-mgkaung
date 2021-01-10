@@ -32,7 +32,7 @@
 </a>
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=radical&line_height=26" alt="Mg Kaung's github stats" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=light&line_height=26" alt="Mg Kaung's github stats" /></th>
     <th><img align='right' src="https://github.com/tusharojha/tusharojha/blob/master/work.gif?raw=true" height="200" ></th>
   </tr>
 </table>

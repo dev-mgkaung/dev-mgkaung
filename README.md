@@ -11,8 +11,9 @@
 4. Spring
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
-- 🌱 I’m currently learning more about Flutter .
-- Ask me learning about java, kotlin , flutter android development
+- 🌱 I’m currently learning more about kotlin, flutter .
+- 💬 Ask me about anything, but I may be slow to respond.
+- 📫 How to reach me: developermgkaung@gmail.com
 
 **Languages and Tools:**  
 

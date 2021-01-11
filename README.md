@@ -27,10 +27,6 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3aOGYknSR_NQQRLZXKaezqpYRu7a4b8nUcg&usqp=CAU"></code>   
 
-
-<a href="https://github.com/dev-mgkaung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mgkaung&theme=light&hide_langs_below=1" />
-</a>
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=dev-mgkaung&show_icons=true&theme=light&line_height=26" alt="Mg Kaung's github stats" /></th>

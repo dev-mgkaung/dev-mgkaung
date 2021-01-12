@@ -6,7 +6,7 @@
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.
 ### My Programming skills
 ```python
- Kotlin , Flutter , Java , Spring boot
+ Kotlin , Flutter , Java , SpringBoot
 ```
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
 - 🌱 I’m currently learning more about kotlin, flutter .

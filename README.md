@@ -5,10 +5,7 @@
  [![GitHub followers](https://img.shields.io/github/followers/dev-mgkaung.svg?style=social&label=Follow)](https://github.com/dev-mgkaung?tab=followers)
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.
 ### My Programming skills
-1. Kotlin
-2. Flutter
-3. Java
-4. Spring
+ Kotlin , Flutter , Java , Spring boot
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
 - 🌱 I’m currently learning more about kotlin, flutter .

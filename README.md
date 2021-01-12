@@ -9,7 +9,7 @@
  Kotlin , Flutter , Java , SpringBoot
 ```
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
-- 🌱 I’m currently learning more about kotlin, flutter .
+- 🌱 I’m currently learning more about  flutter .
 - 💬 Ask me about anything, but I may be slow to respond.
 - 📫 How to reach me: developermgkaung@gmail.com
 

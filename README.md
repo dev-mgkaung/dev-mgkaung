@@ -5,7 +5,7 @@
  [![GitHub followers](https://img.shields.io/github/followers/dev-mgkaung.svg?style=social&label=Follow)](https://github.com/dev-mgkaung?tab=followers)
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level. I want to become a full stack developer. 
 ### My Programming skills
-```python
+```kotlin
  Kotlin , Flutter , Java , SpringBoot
 ```
 ### My Ui/Ux Design and Video Editing skills

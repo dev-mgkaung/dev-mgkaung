@@ -8,7 +8,7 @@
 ```python
  Kotlin , Flutter , Java , SpringBoot
 ```
-### My Ui/Ux Design and Video Editingg skills
+### My Ui/Ux Design and Video Editing skills
 ```python
  Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
 ```

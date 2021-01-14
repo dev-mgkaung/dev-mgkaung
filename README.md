@@ -13,7 +13,7 @@
   Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
 ```
 ### Language
-```python
+```java
   Burmese , English
 ```
 

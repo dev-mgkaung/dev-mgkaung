@@ -10,11 +10,11 @@
 ```
 ### My Ui/Ux Design and Video Editing skills
 ```python
- Burmese , English 
+  Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
 ```
 ### Language
 ```python
- Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
+  Burmese , English
 ```
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).

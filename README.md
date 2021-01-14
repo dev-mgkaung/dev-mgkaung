@@ -10,6 +10,10 @@
 ```
 ### My Ui/Ux Design and Video Editing skills
 ```python
+ Burmese , English 
+```
+### Language
+```python
  Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
 ```
 

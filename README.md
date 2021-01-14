@@ -3,11 +3,16 @@
 # Hi 👋  I’m  Mobile developer  👋
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  [![GitHub followers](https://img.shields.io/github/followers/dev-mgkaung.svg?style=social&label=Follow)](https://github.com/dev-mgkaung?tab=followers)
-## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.
+## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level.I want to become a full stack developer. 
 ### My Programming skills
 ```python
  Kotlin , Flutter , Java , SpringBoot
 ```
+### My Ui/Ux Design and Video Editingg skills
+```python
+ Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
+```
+
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
 - 🌱 I’m currently learning more about  flutter .
 - 💬 Ask me about anything, but I may be slow to respond.

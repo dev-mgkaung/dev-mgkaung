@@ -9,11 +9,11 @@
  Kotlin , Flutter , Java , SpringBoot
 ```
 ### My Ui/Ux Design and Video Editing skills
-```python
+```kotlin
   Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop
 ```
 ### Language
-```java
+```kotlin
   Burmese , English
 ```
 

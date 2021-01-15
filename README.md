@@ -19,6 +19,7 @@
 
 - 🔭 I’m currently working on [MIT](http://www.mit.com.mm/).
 - 🌱 I’m currently learning more about backend knowledge .
+- 💚 Would Love to: Make applications that helps people 
 - 💬 Ask me about anything, but I may be slow to respond.
 - 📫 How to reach me: developermgkaung@gmail.com
 

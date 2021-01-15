@@ -1,6 +1,5 @@
 [![Believe Developer.](https://github.com/dev-mgkaung/dev-mgkaung/blob/master/mycovers_photo.png)](https://play.google.com/store/apps/developer?id=Believe+Developer)
 
-<a href="https://linkedin.com/in/abdul-momin-sakib"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 # Hi 👋  I’m  Mobile developer  👋
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  [![GitHub followers](https://img.shields.io/github/followers/dev-mgkaung.svg?style=social&label=Follow)](https://github.com/dev-mgkaung?tab=followers)

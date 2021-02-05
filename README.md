@@ -8,6 +8,10 @@
 ```kotlin
  Kotlin , Flutter , Java , SpringBoot , Node.js , C# 
 ```
+## My CV Form
+* [Click Here][cv]
+[cv]: https://github.com/dev-mgkaung/dev-mgkaung/blob/master/Mg_Kaung_Si_Thu_CV.pdf
+
 ### My Ui/Ux Design and Video Editing skills
 ```kotlin
   Adobe After Effect , Adobe XD CC  , Adobe Illustration , Photoshop

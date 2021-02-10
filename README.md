@@ -6,7 +6,7 @@
 ## I am 24 years old. I have been working in MIT (Myanmar) since 2018. So my experience has been 2 years in android development and skill is at intermediate level. I want to become a full stack developer. 
 ### My Programming skills
 ```kotlin
- Kotlin , Flutter , Java , SpringBoot , Node.js , C# 
+ Kotlin , Flutter , Java , React Native , SpringBoot , Node.js ,Laravel , C# 
 ```
 ## My CV Form
 * [Click Here][cv]

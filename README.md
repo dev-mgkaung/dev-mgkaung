@@ -10,6 +10,7 @@
 ```
 ### My Youtube Channel
 https://www.youtube.com/channel/UCjaNtKotfA-evwhDyAzCddQ
+[![Watch the video](https://img.youtube.com/vi/NhQZmKvRFBg/maxresdefault.jpg)](https://youtu.be/NhQZmKvRFBg)
 
 ## My CV Form
 * [Click Here][cv]
@@ -41,7 +42,7 @@ https://www.youtube.com/channel/UCjaNtKotfA-evwhDyAzCddQ
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3aOGYknSR_NQQRLZXKaezqpYRu7a4b8nUcg&usqp=CAU"></code>   
 
-[![Watch the video](https://img.youtube.com/vi/NhQZmKvRFBg&t=531s/maxresdefault.jpg)](https://youtu.be/NhQZmKvRFBg&t=531s)
+
 
 <table style="width:100%">
   <tr>
